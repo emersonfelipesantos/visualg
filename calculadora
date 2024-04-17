@@ -22,7 +22,7 @@ Inicio
       escreval ("4 - Divisão")
       escreval ("5 - Potência")
       leia (operacao)
-
+// aqui se escolhe a operação para fazer a conta
       escolha (operacao)
       caso 1
          resultado <- n1 + n2
